@@ -1,7 +1,9 @@
 [
     {
         "id": "abys",
-        "image": "{width=1204.0, url=https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1674151444515x335058665072508500%2FIMG-3572.jpg?w=768&amp;h=821&amp;auto=compress&amp;fit=crop&amp;dpr=2&quot, height=1445.0, id=0XYvRd7oD}",
+        "image": {
+            "url": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1674151444515x335058665072508500%2FIMG-3572.jpg?w=768&amp;h=821&amp;auto=compress&amp;fit=crop&amp;dpr=2&quot",
+        },
         "name": "2022 Kodiak EV 4 passenger with cooler",
         "ownerName": "Han Solo",
         "ownerNumber": "555-555-5555",
@@ -14,7 +16,9 @@
     },
     {
         "id": "aege",
-        "image": "{id=ozEvzdVM-, width=1204.0, url=https://cdn11.bigcommerce.com/s-6borvyvpnd/images/stencil/1280x1280/products/5991/195026/20220831_111242_6849_NEW_WM_STAR__29174.1668700306.png, height=1445.0}",
+        "image": {
+            "url": "https://cdn11.bigcommerce.com/s-6borvyvpnd/images/stencil/1280x1280/products/5991/195026/20220831_111242_6849_NEW_WM_STAR__29174.1668700306.png",
+        },
         "name": "Luke Skywalker",
         "ownerName": "Han Solo",
         "ownerNumber": "555-555-5555",
@@ -27,7 +31,9 @@
     },
     {
         "id": "abob",
-        "image": "{url=https://upload.wikimedia.org/wikipedia/commons/a/aa/Golf-cart_fairway.jpg, id=hBXicehMA, width=1204.0, height=1445.0}",
+        "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Golf-cart_fairway.jpg, id=hBXicehMA, width=1204.0, height=1445.0",
+        },
         "name": "C-3PO",
         "ownerName": "Han Solo",
         "ownerNumber": "555-555-5555",
