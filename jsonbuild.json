@@ -2,7 +2,7 @@
     {
         "id": "abys",
         "image": {
-            "url": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1674151444515x335058665072508500%2FIMG-3572.jpg?w=768&amp;h=821&amp;auto=compress&amp;fit=crop&amp;dpr=2&quot",
+            "url": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1674151444515x335058665072508500%2FIMG-3572.jpg?w=768&amp;h=821&amp;auto=compress&amp;fit=crop&amp;dpr=2&quot"
         },
         "name": "2022 Kodiak EV 4 passenger with cooler",
         "ownerName": "Han Solo",
@@ -12,12 +12,13 @@
         "origin": "Egypt",
         "country_codes": "EG",
         "description": "Brand new Kodiak street legal with cooler. It is located in Indialantic which can service Satellite Beach, Melbourne Beach among many. Rentals can be daily (no less than 3 days), weekly or monthly. Can carry up to 4 people.  Babies do need to be strapped in their own car seat.  This is a battery, street legal car with all the bells and whistles",
-        "energy_level": 5
+        "energy_level": 5,
+        "hairless": 0
     },
     {
         "id": "aege",
         "image": {
-            "url": "https://cdn11.bigcommerce.com/s-6borvyvpnd/images/stencil/1280x1280/products/5991/195026/20220831_111242_6849_NEW_WM_STAR__29174.1668700306.png",
+            "url": "https://cdn11.bigcommerce.com/s-6borvyvpnd/images/stencil/1280x1280/products/5991/195026/20220831_111242_6849_NEW_WM_STAR__29174.1668700306.png"
         },
         "name": "Luke Skywalker",
         "ownerName": "Han Solo",
@@ -27,12 +28,13 @@
         "origin": "Greece",
         "country_codes": "GR",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "energy_level": 3
+        "energy_level": 3,
+        "hairless": 0
     },
     {
         "id": "abob",
         "image": {
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Golf-cart_fairway.jpg, id=hBXicehMA, width=1204.0, height=1445.0",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Golf-cart_fairway.jpg, id=hBXicehMA, width=1204.0, height=1445.0"
         },
         "name": "C-3PO",
         "ownerName": "Han Solo",
@@ -42,6 +44,7 @@
         "origin": "United States",
         "country_codes": "US",
         "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
-        "energy_level": 3
+        "energy_level": 3,
+        "hairless": 0
     }
 ]
